@@ -1,17 +1,27 @@
-### Skin changer for 1.20(MINECRAFT )
+# ![Minecraft Skin Changer Banner](banner.png)
 
-You can change your skin on this!!!
----------------------------------------------------
-#### How to change your skin
-1.Go to file manager and extract.
+# Minecraft Skin Changer (v1.20.1)
 
-2.Add your skin🥷 to it.
+![Minecraft Skin Changer](screenshot.png)
 
-3.Your file cut and paste on minecraft folder.📁 
+A simple tool to change your Minecraft character skin in **Minecraft 1.20.1**.  
+Easily update your in-game appearance without navigating through Minecraft menus.
 
-4.Finally,Youcan run it😄 
+---
 
+## Features
 
-## you can fun with it😍
+- Supports **Minecraft 1.20.1**
+- Lightweight and fast
+- Quick switching between multiple skins
+- Easy-to-use interface
 
-    # Bye☠️  # Bye☠️
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/minecraft-skin-changer.git
+
